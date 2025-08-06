@@ -1,2 +1,2 @@
 FROM tomcat:10.1
-COPY Portfolio.war /usr/local/tomcat/webapps/
+COPY ROOT.war /usr/local/tomcat/webapps/
